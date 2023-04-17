@@ -1,6 +1,7 @@
 stamps
 4 vaci.uw.hu getAns()
 
+{
 function getAns(){
     let gapNum = FindCurrent()
 
@@ -9,3 +10,5 @@ function getAns(){
         console.log(ansList[i][0])
     }
 }
+}
+

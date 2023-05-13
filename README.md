@@ -1,5 +1,6 @@
 stamps
 4 - 11 vaci.uw.hu getAns()
+13 - 13 github access token
 
 function getAns(){
     let gapNum = FindCurrent()
@@ -10,3 +11,4 @@ function getAns(){
     }
 }
 
+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

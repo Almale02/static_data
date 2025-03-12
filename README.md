@@ -12,3 +12,8 @@ function getAns(){
 }
 
 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
+
+
+ports
+pizzasmp.seconddanad.uk:2378
+                        2381
